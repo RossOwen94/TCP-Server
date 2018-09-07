@@ -1,7 +1,5 @@
 //Author:	Ross Gideon
 //Date: 	4/30/2018
-//Course:	CSCE 3600
-//Title:	Major 2 Assignment - Client
 //Description:
 //*****************
 //	This client code is to be run by 2 clients on different machines
