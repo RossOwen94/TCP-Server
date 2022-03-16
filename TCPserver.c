@@ -1,5 +1,5 @@
 // ========================================================================
-// Name:        Mitchell Buehler (Major 2 Group 14)
+// 
 // Course:		CSCE 3600
 // Date:		May 3, 2018
 // Title:		Major Assignment 2 - Server
